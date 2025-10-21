@@ -1,7 +1,7 @@
 ## Hi there 👋 My Self Devansh Kyada
 
 # 💫 About Me:
-🎓 I am an undergraduate student at Pandit Deendayal Energy University, Gandhinagar, pursuing B.Tech in Information and Communication Technology.<br><br>💼 Previously interned at Reliance Industries Limited as a Software Engineering Intern.<br><br>💻 I am a Front-End Developer.<br><br>🚀 Currently learning to become a Full-Stack Web Developer.<br><br>🛠️ Exploring technologies like Node.js, MongoDB, Express, Next.js, and many more...<br><br>📧 Reach me at: devansh.kyada@gmail.com<br><br>🌐 Portfolio Website: https://devansh-kyada-portfolio.vercel.app/<br>  
+🎓 I am an undergraduate student at Pandit Deendayal Energy University, Gandhinagar, pursuing B.Tech in Information and Communication Technology.<br><br>💼 Previously interned at YHonk Tech Private Limited as a Full Stack Developer Intern and Reliance Industries Limited as a Software Engineering Intern.<br><br>💻 I am a Front-End Developer.<br><br>🚀 Currently learning to become a Full-Stack Web Developer.<br><br>🛠️ Exploring technologies like Node.js, MongoDB, Express, Next.js, and many more...<br><br>📧 Reach me at: devansh.kyada@gmail.com<br><br>🌐 Portfolio Website: https://devansh-kyada-portfolio.vercel.app/<br>  
 
 
 ## 🌐 Socials:
